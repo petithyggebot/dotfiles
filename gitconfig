@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vo.diana@ymail.com
+	name = Diana Vo
